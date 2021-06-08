@@ -86,7 +86,7 @@ author:
   avatar           : "profile.png"
   bio              : "Computational intelligence researchers, explorer in entertainment science and games"
   location         : "Ishikawa, Japan"
-  employer         : "JAIST"
+  employer         : "<a href='https://www.jaist.ac.jp' target='_blank'>JAIST</a>"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.my/citations?user=GJeS-CwAAAAJ&hl=en"
   email            : "akmal@jaist.ac.jp"
