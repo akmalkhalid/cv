@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Mohd Nor Akmal Khalid"
   avatar           : "profile.png"
-  bio              : "Computational intelligence researchers, explorer in entertainment science and games"
+  bio              : "Computational intelligence researchers, explorer in entertainment science and games in "<a href='https://www.jaist.ac.jp' target='_blank'>JAIST</a>""
   location         : "Ishikawa, Japan"
-  employer         : "<a href='https://www.jaist.ac.jp' target='_blank'>JAIST</a>"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.my/citations?user=GJeS-CwAAAAJ&hl=en"
   email            : "akmal@jaist.ac.jp"
