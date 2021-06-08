@@ -1,0 +1,16 @@
+.container {
+    width:100%;
+    border:1px solid #ffe5b4;
+}
+.container div {
+    width:100%;
+}
+.container .header {
+    background-color:#ffe5b4;
+    padding: 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.container .content {
+    display: none;
+    padding : 5px;
