@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-------
 Hi, I'm Akmal. I am an assistant professor in the [School of Information Science](https://www.jaist.ac.jp/english/areas/information-science.html) at the [Japan Advanced Institute of Science and Technology (JAIST)](https://www.jaist.ac.jp) and a part-time Research Fellow in the [School of Computer Sciences](https://cs.usm.my) at the [Universiti Sains Malaysia](https://www.usm.my). My work specializes in artificial intelligence techniques such as evolutionary algorithms and decision support systems and game studies such as entertainment science and games informatics. My interests focus specifically on methods and developments in the fields of the entertainment technology and operational research, which covered topics of interest include but are not limited to manufacturing systems, advanced scheduling and planning, artificial intelligence techniques, game analytic and informatics, search algorithms, bio-inspired optimization techniques, and machine learning methods.
 
 Current Work and Research
