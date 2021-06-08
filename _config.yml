@@ -11,6 +11,7 @@ title                    : "Mohd Nor Akmal Khalid"
 title_separator          : "-"
 name                     : &name "Mohd Nor Akmal Khalid"
 description              : &description "Mohd Nor Akmal Academic Website"
+logo                     : "images/triangle.png"
 url                      : "https://akmalkhalid.github.io" # the base hostname & protocol for your site 
 baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : "cv"
