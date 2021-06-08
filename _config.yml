@@ -16,7 +16,7 @@ url                      : "https://akmalkhalid.github.io" # the base hostname &
 baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : "akmalkhalid/cv"
 teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-masthead_title           : "About - Mohd Nor Akmal Khalid"
+masthead_title           : "About - Akmal"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
