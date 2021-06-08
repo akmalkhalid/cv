@@ -11,9 +11,9 @@ title                    : "Mohd Nor Akmal Khalid"
 title_separator          : "-"
 name                     : &name "Mohd Nor Akmal Khalid"
 description              : &description "Mohd Nor Akmal Academic Website"
-url                      : "https://akmal104041.github.io" # the base hostname & protocol for your site 
-baseurl                  : "/akmal" # the subpath of your site, e.g. "/blog"
-repository               : "akmal"
+url                      : "https://akmalkhalid.github.io" # the base hostname & protocol for your site 
+baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
+repository               : "cv"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,7 +85,7 @@ author:
   bio              : "Computational intelligence researchers, explorer in entertainment science and games"
   location         : "Ishikawa, Japan"
   employer         : "JAIST"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.my/citations?user=GJeS-CwAAAAJ&hl=en"
   email            : "akmal@jaist.ac.jp"
   researchgate     : "https://www.researchgate.net/profile/Mohd-Nor-Akmal-Khalid"
