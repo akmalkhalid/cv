@@ -14,7 +14,7 @@ description              : &description "Mohd Nor Akmal Academic Website"
 logo                     : "images/triangle.png"
 url                      : "https://akmalkhalid.github.io" # the base hostname & protocol for your site 
 baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
-repository               : "cv"
+repository               : "akmalkhalid/cv"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
