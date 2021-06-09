@@ -23,7 +23,7 @@ logo                     : "triangle.png" # path of logo image to display in the
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
-future                   : true
+future                   : false
 search                   : true
 read_more                : # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
