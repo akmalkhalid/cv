@@ -11,7 +11,6 @@ minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-logo                     : "triangle.png"
 title                    : "Mohd Nor Akmal Khalid"
 title_separator          : "-"
 name                     : &name "Mohd Nor Akmal Khalid"
@@ -20,10 +19,10 @@ url                      : "https://akmalkhalid.github.io" # the base hostname &
 baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : "akmalkhalid/cv"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "triangle.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 200
 future                   : true
 search                   : true
 read_more                : # if enabled, adds "Read more" links to excerpts
